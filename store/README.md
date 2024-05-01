@@ -1,0 +1,1 @@
+An E-Commerce website for vuying Audio Devices. The Tech Stacks used are Next.js, Sanity , Stripe. Next.js - for website structure and optimization of website. Sanity.io - for databse of products . It's easier to use sanity in Next through api. Stripe - for payment gateway.git 
